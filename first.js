@@ -86,7 +86,7 @@ console.log(`${myName} ${myFatherName} ${myAge}`);*/
 
 //Завдання №4
 
-/*let aboutMy = myName + ' ' + myFatherName + ' ' + myAge ;
+/*let aboutMe = myName + ' ' + myFatherName + ' ' + myAge ;
 
 console.log(aboutMy);*/
 
@@ -107,7 +107,7 @@ console.log(num3);*/
 
 /*let a= 100;
 let b = '100';
-let c= true;
+let c = true;
 
 console.log(typeof a);
 console.log(typeof b);
@@ -116,20 +116,20 @@ console.log(typeof c);
 
 
 //Завдання №9
-// let firstNam  = Math.round( prompt('numb'));
+// let firstNum  = Math.round( prompt('numb'));
 // let secondNum = Math.round(prompt('second'));
 // let thirdNum = Math.round(prompt('third'));
 //
-// console.log(firstNam);
+// console.log(firstNum);
 // console.log(secondNum);
 // console.log(thirdNum);
-// let total = firstNam + secondNum + thirdNum;
+// let total = firstNum + secondNum + thirdNum;
 // console.log(total);
 
 //Піднесення до степення
 
 /*let numBase = prompt('Основа');
-let  numExp =prompt('Експонента');
+let  numExp = prompt('Експонента');
 
 console.log(Math.pow(numBase, numExp));*/
 
@@ -168,7 +168,7 @@ let num = 123;
 let flag = true;
 let txt = 'true';
 
-console.log( typeof str);
+console.log(typeof str);
 console.log(typeof num);
 console.log(typeof flag);
 console.log(typeof txt);
@@ -190,7 +190,7 @@ console.log(a10);*/
 
 /*let height = 23;
 let width = 10;
-let s = height + width;
+let s = height * width;
 console.log(s);
 
  */
@@ -268,7 +268,7 @@ alert(a1 + b1)*/
 let surName = prompt('surname');
 let ageUser = prompt('age');
 
-alert('Доброго вечора' + ' '  + nameUser + ' ' + surName +  ' мои поздравления что вам ' + ageUser);*/
+alert('Доброго вечора '  + nameUser + ' ' + surName +  ' мої вітання, що вам ' + ageUser);*/
 
 
 //Додаткове
@@ -303,7 +303,7 @@ if (a > b && a > c) {
 
 //завдання 2
 
-/*let colorTrLight = prompt('Ввеси колір');
+/*let colorTrLight = prompt('Ввести колір');
 
 if (colorTrLight === 'green') {
     console.log('Йди')
@@ -311,7 +311,7 @@ if (colorTrLight === 'green') {
     console.log('Почекай')
 }else if (colorTrLight === 'red') {
     console.log('Стій')
-}else if (colorTrLight === 'error') {
+}else (colorTrLight === 'error') {
     console.log('Роби що хочеш')
 }*/
 

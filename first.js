@@ -291,8 +291,8 @@ if (a > b && a > c) {
     } else {
         console.log(c, a, b)
     }
-}else if (c>b && c>a) {
-    if (b>a) {
+}else if (c > b && c > a) {
+    if (b > a) {
         console.log(a, b, c)
     }else {
         console.log(b, a, c)

@@ -257,10 +257,10 @@ console.log(str);*/
 //завдання 13
 
 //
-/*let a1 = 22;
-let b1 = 44;
+let num1 = + prompt('Number One');
+let num2 = + prompt('Number Two');
 
-alert(a1 + b1)*/
+alert(num1 + num2);
 
 //завдання 14
 

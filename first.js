@@ -257,10 +257,10 @@ console.log(str);*/
 //завдання 13
 
 //
-let num1 = + prompt('Number One');
-let num2 = + prompt('Number Two');
-
-alert(num1 + num2);
+// let num1 = + prompt('Number One');
+// let num2 = + prompt('Number Two');
+//
+// alert(num1 + num2);
 
 //завдання 14
 
@@ -311,9 +311,25 @@ if (colorTrLight === 'green') {
     console.log('Почекай')
 }else if (colorTrLight === 'red') {
     console.log('Стій')
-}else (colorTrLight === 'error') {
+}else {
     console.log('Роби що хочеш')
 }*/
+
+// let colorTrLight = prompt('Ввести колір');
+//
+// switch (colorTrLight) {
+//     case 'green' :
+//         console.log('Йди');
+//         break;
+//     case 'yellow' :
+//         console.log('Почекай');
+//         break;
+//     case 'red' :
+//         console.log('Стій');
+//         break;
+//     default :
+//         console.log('Роби що хочеш');
+// }
 
 
 //завдання 3
